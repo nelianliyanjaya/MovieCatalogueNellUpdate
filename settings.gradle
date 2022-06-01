@@ -1,0 +1,2 @@
+rootProject.name='MovieCatalogueNellUpdate'
+include ':app'
